@@ -1,14 +1,11 @@
+overlapping points
+colinear points
+intersect points or concave quadraliterals
 rhombi
-rhombi
-parallegograms
-parallegograms
-squares
+parallegorams
 squares
 rectangles
-rectangles
-trapezoids
-parallegograms
+trapezoid
 kites
-parallegograms
+intersect points or concave quadraliterals
 quadraliteral
-parallegograms
