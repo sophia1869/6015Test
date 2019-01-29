@@ -1,0 +1,4 @@
+os: osx
+language: cpp
+compiler: clang++
+script: bash test.sh
