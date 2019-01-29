@@ -38,51 +38,44 @@ std::string quadrilateralClassifier(double x1, double y1, double x2, double y2, 
     
     
     bool para0132 = compareDouble(slope01,slope32);
-    //    bool equallength0132 = compareDouble(length01, length32);
+    bool equallength0132 = compareDouble(length01, length32);
     
     bool para0312 = compareDouble(slope03, slope12);
-    //    bool equallength0312 = compareDouble(length03, length12);
+    bool equallength0312 = compareDouble(length03, length12);
     
     bool equallength1232 = compareDouble(length12, length32);
-    //    bool equallength0103 = compareDouble(length01, length03);
+    bool equallength0103 = compareDouble(length01, length03);
     
     bool isRec0 = compareDouble((y3-y1)*(y3-y1)+(x3-x1)*(x3-x1), length01*length01+length03*length03);
-    //    bool isRec1 = compareDouble((y2-y0)*(y2-y0)+(x2-x0)*(x2-x0), length01*length01+length12*length12);
-    //    bool isRec2 = compareDouble((y2-y3)*(y2-y3)+(x2-x3)*(x2-x3), length12*length12+length32*length32);
-    //    bool isRec3 = compareDouble((y2-y0)*(y2-y0)+(x2-x0)*(x2-x0), length03*length03+length32*length32);
+    bool isRec1 = compareDouble((y2-y0)*(y2-y0)+(x2-x0)*(x2-x0), length01*length01+length12*length12);
+    bool isRec2 = compareDouble((y2-y3)*(y2-y3)+(x2-x3)*(x2-x3), length12*length12+length32*length32);
+    bool isRec3 = compareDouble((y2-y0)*(y2-y0)+(x2-x0)*(x2-x0), length03*length03+length32*length32);
     
     if (para0132 && para0312 && equallength1232 && isRec0){
-        std::cout<<"squares\n";
         return "squares";
     }
     
     if (para0132 && para0312 && equallength1232 ){
-        std::cout<<"rhombi\n";
         return "rhombi";
     }
     
     if (para0132 && para0312 && isRec0){
-        std::cout<<"rectangles\n";
         return "rectangles";
     }
     
     if (para0132 && para0312){
-        std::cout<<"parallegograms\n";
-        return "parallegograms";
+        return "parallegorams";
     }
     
     if (para0132 || para0312){
-        std::cout<<"trapezoids\n";
-        return "parallegograms";
+        return "trapezoid";
     }
     
     if (equallength1232){
-        std::cout<<"kites\n";
-        return "parallegograms";
+        return "kites";
     }
     else{
-        std::cout<<"quadraliteral\n";
-        return "parallegograms";
+        return "quadraliteral";
     }
     
 }
