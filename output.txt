@@ -1,11 +1,1049 @@
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
 overlapping points
-colinear points
-intersect points or concave quadraliterals
-rhombi
-parallegorams
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
+squares
 squares
 rectangles
+rhombi
+rhombi
+parallegorams
+parallegorams
+parallegorams
+rhombi
+rhombi
+parallegorams
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+colinear points
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rectangles
+rhombi
+rhombi
+rhombi
+rhombi
+rectangles
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+parallegorams
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+overlapping points
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+overlapping points
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+parallegorams
+colinear points
+rhombi
+rhombi
+parallegorams
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+parallegorams
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+parallegorams
+rhombi
+rhombi
+rhombi
+parallegorams
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+rhombi
+parallegorams
+rhombi
+rhombi
+rhombi
+rhombi
+overlapping points
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+squares
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+overlapping points
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+squares
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+squares
+rectangles
+squares
+squares
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+squares
+rectangles
+squares
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+squares
+rectangles
+rectangles
+rectangles
+squares
+rectangles
+rectangles
+rectangles
+overlapping points
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+squares
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+overlapping points
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+squares
+rectangles
+rectangles
+rectangles
+rectangles
+squares
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
+rectangles
 trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+overlapping points
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+overlapping points
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+overlapping points
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+overlapping points
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+trapezoid
+parallegorams
+parallegorams
+overlapping points
+parallegorams
+colinear points
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+rhombi
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+rectangles
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+overlapping points
+parallegorams
+rhombi
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+rectangles
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+rhombi
+rhombi
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+rectangles
+parallegorams
+parallegorams
+rhombi
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+rectangles
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+rhombi
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+rectangles
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+parallegorams
+kites
+colinear points
+intersect points or concave quadraliterals
+kites
+kites
+kites
+kites
 kites
 intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+rhombi
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+kites
+intersect points or concave quadraliterals
+kites
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+trapezoid
+colinear points
+trapezoid
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+rhombi
+intersect points or concave quadraliterals
+trapezoid
+kites
+kites
+kites
+kites
+intersect points or concave quadraliterals
+kites
+kites
+intersect points or concave quadraliterals
+kites
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+kites
+intersect points or concave quadraliterals
+kites
+kites
+trapezoid
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+trapezoid
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+trapezoid
+kites
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+rhombi
+kites
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+trapezoid
+colinear points
+kites
+kites
+kites
+rhombi
+kites
+kites
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
 quadraliteral
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+kites
+kites
+kites
+quadraliteral
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+colinear points
+quadraliteral
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+colinear points
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+colinear points
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+quadraliteral
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+quadraliteral
+intersect points or concave quadraliterals
+colinear points
+intersect points or concave quadraliterals
+colinear points
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+kites
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+quadraliteral
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+quadraliteral
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+quadraliteral
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+quadraliteral
+trapezoid
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+colinear points
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+quadraliteral
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+trapezoid
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+quadraliteral
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals
+intersect points or concave quadraliterals

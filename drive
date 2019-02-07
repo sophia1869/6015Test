@@ -1,0 +1,4 @@
+import os, subprocess
+os.system("java -cp /Users/huizhou/sophia1869/cs6015/bin assignment6.Fuzzer")
+os.system("sh test.sh")
+os.system("diff outputShape.txt output.txt")

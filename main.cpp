@@ -16,7 +16,7 @@ bool compareDouble (double d1, double d2){
     if (d1==d2)
         return true;
     // for some slope the divider may be 0 the d1 d2 given here is undefined and can not use the following comparison
-    return (fabs(d1-d2))<(0.00001*fabs(d1));
+    return (fabs(d1-d2))<(0.1*fabs(d1));
 }
 
 bool overlap (double x0, double y0, double x1, double y1){
